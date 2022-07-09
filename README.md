@@ -1,6 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
-Currently in the works
+I'm a third year Computer Engineering Student at the University of Toronto.
+- 🔭 Currently I am working underneath the iQua Research Group at the University of Toronto. I have worked on the continual_RL branch in the pinned repositories.
 
 <!--
 **danielliucs/danielliucs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
