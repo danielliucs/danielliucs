@@ -2,7 +2,7 @@
 ## About me
 I'm a third year Computer Engineering Student at the University of Toronto.
 
-# What I am currently doing
+### What I am currently doing
 - 🔭 Currently I am working underneath the iQua Research Group at the University of Toronto. I have worked extensively the continual_RL branch in the pinned repository of the federated learning framework Plato
 
 <!--
