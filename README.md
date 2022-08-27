@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Next.js, Javascript**
 
-- 👨‍💻 All of my projects are available at https://danielliliu.ca/projects.html [here](here)
+- 👨‍💻 All of my projects are available at [here](https://danielliliu.ca/projects.html)
 
 - 📫 How to reach me **daniell.liu@mail.utoronto.ca**
 
-- 📄 Know about my experiences https://danielliliu.ca/experience.html [here](here)
+- 📄 Know about my experiences [here](https://danielliliu.ca/experience.html)
 
 - ⚡ Fun fact **I like to play chess and video games on my free time**
 
