@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielliucs" alt="danielliucs" /></a> </p>
 
-- 🔭 I’m currently working on **UoftHacks Frontend Website** as well as **https://danielliliu.ca/**
+- 🔭 I’m currently TA'ing APS105
 
 - 🌱 I’m currently learning **Next.js, Javascript**
 
