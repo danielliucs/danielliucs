@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielliucs" alt="danielliucs" /></a> </p>
 
-- 🔭 I’m currently TA'ing APS105
+- 🔭 I’m currently interning at intel
 
 - 🌱 I’m currently learning **Next.js, Javascript**
 
